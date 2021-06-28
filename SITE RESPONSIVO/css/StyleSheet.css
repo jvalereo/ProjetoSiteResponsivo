@@ -1,0 +1,129 @@
+﻿/*Técnica de desenvolvimento de site responsivo*/
+/*Devenvolver um site Robótica na prática*/
+/*Site responsivo,só treinamento e aprendendo a desenvolver técnica básica de responsivo*/
+/*Data:  28/06/2021*/
+/*Desenvolvedor: Jonas Valereo - Técnico em Informática*/
+
+/*FORMATAÇÃO DO CSS DO SITE ROBOTICA NA PRATICA*/
+
+
+/*Formatacao da div corpo do site*/
+
+body{
+
+    background-color:#cccccc;
+
+}
+
+
+/*Formatacao da tags h1, h2, h3 do site*/
+
+h1, h2, h3{
+
+    font-family: Arial, Verdana, Tahoma;
+
+}
+
+/*Formatacao a section do site*/
+
+section{
+
+    background-color: #ffffff;
+    font-family: Arial, Calibri, Tahoma;
+    padding: 10px;
+
+}
+
+/*Formatacao do footer do site*/
+
+footer{
+
+    background-color: #000;
+    color:#fff;
+    font-family: Arial,Calibri,Tahoma;
+    font-size: 12px;
+    text-align: center;
+    padding: 10px;
+
+}
+
+/*Formatacao da imagem,e video do site*/
+
+img,video{
+
+    max-width: 100%;
+}
+
+/*Formatacao a nav, menu principal do site*/
+
+nav{
+
+    background-color: #000;
+    height: 33px;
+    font-family: Arial, Calibri,Tahoma;
+    font-weight: bold;
+    font-size: 14px;
+
+}
+
+nav ul{
+
+    height: auto;
+    padding: 8px 0px;
+    margin: 0px;
+
+}
+
+nav li{
+
+    display: inline;
+    padding: 10px;
+    margin: 0px;
+
+}
+
+nav a{
+
+    text-decoration: none;
+    color: #fff;
+    padding: 8px 8px 8px 8px;
+
+}
+
+nav a:hover{
+
+    color:#000;
+    background-color: #fff;
+
+}
+
+/*Formatacao responsio total do site*/
+
+@media all and (min-width: 960px){
+
+ body{
+
+     width: 960px;
+     margin: auto;
+ }
+
+
+}
+
+@media all and (max-width: 480px){
+
+ nav{
+
+     height: 100%;
+
+ }
+
+ nav li{
+
+     display: block;
+     padding: 10px;
+     margin: 0px;
+
+ }
+
+}
