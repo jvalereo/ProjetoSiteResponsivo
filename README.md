@@ -25,11 +25,7 @@
 ##
 
 <a href="#">
-<img align="center"  alt="jonas-Layout" height ="600" width ="500" src ="https://user-images.githubusercontent.com/25933386/123571195-1ca13c00-d7a0-11eb-9000-12ff7e60e33f.JPG" style="max-width: 100%;"></img>
-</a>
-
-<a href="#">
-<img align="center"  alt="jonas-C#" height ="400" width ="400" src ="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" style="max-width: 100%;"></img>
+<img align="center"  alt="jonas-C#" height ="400" width ="400" src ="https://user-images.githubusercontent.com/25933386/123719626-60f01300-d858-11eb-8e09-fe45c5cb86e5.jpg" style="max-width: 100%;"></img>
 </a>
 
 # Projeto ETESP - Etec de São Paulo - Centro Paula Souza 2015
