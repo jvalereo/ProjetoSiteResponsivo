@@ -39,7 +39,7 @@
 - PROJETO TECNICA DE DESENVOLVIMENTO DE SITE RESPONSIVO
 - Devenvolver um site Robótica na prática
 - Projeto basico de ASP.Net em Laboratório , desenvolver  um site basico, responsivo com funcionalidade e tecnologia ASP, esse programa não tem banco de dados sua implementação é execultado no localhost, na maquina local.
-- O importante foi o aprendizado, e o conhecimento básicos e aperfeiçomento em técnicas e desenvolvimento em sistema em 2015
+- O importante foi o aprendizado, e o conhecimento básicos e aperfeiçomento em técnicas e desenvolvimento de site em ASP.Net 2021
 - Data: 28/06/2021
 - Desenvolvedor: Jonas Valereo - Técnico em Informática
 - IDE Visual Studio
