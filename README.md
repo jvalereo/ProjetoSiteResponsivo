@@ -19,7 +19,7 @@
 ##
 
 <a href="#">
-<img align="center"  alt="jonas-Layout" height ="700" width ="1000" src ="https://user-images.githubusercontent.com/25933386/123719323-a3fdb680-d857-11eb-975b-faef68b5d506.PNG"></img>
+<img align="center"  alt="jonas-Layout" height ="600" width ="1000" src ="https://user-images.githubusercontent.com/25933386/123719323-a3fdb680-d857-11eb-975b-faef68b5d506.PNG"></img>
 </a>
 
 ##
