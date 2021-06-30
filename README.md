@@ -47,6 +47,7 @@
 # Tecnologia Aplicada no Projeto
 
 - Front-end
+- Html5 e CSS
 
 # Como Executa o Projeto
 
